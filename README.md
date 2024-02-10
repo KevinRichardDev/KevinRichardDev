@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kevin Richard
 - 👀 I’m interested in new challenges, whether in sport or in Web Development.
-- 🌱 I’m currently learning Sass and JS
+- 🌱 I'm currently learning Sass and JS and then React
 - 📫 How to reach me kevin.richard0@orange.fr
 - ⚡ Fun fact: I discovered Dev completely by chance and it became a passion for several months.
 
